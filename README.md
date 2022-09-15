@@ -1,5 +1,6 @@
 # insertion sort project
 patika dev insertion sort projesi
+
 [22,27,16,2,18,6] -> Insertion Sort
 
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -21,4 +22,5 @@ Average case kapsamına girer.
 4. adım => [2,3,4,5,6,9,8,15,7]
 
 https://www.patika.dev 
+
 https://app.patika.dev/semanurozyilmaz
